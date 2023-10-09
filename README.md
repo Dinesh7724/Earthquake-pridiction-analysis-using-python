@@ -1,0 +1,1 @@
+# Earthquake-pridiction-analysis-using-python
